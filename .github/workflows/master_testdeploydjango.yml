@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'testdeploydjango'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FE4215214804684A2A967A96CFBEFDE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_847888B7E9F64987883A1449E291851F }}
